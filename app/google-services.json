@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "840896643519",
+    "firebase_url": "https://only-polling.firebaseio.com",
+    "project_id": "only-polling",
+    "storage_bucket": "only-polling.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840896643519:android:915c2b2cfda9f65840a10a",
+        "android_client_info": {
+          "package_name": "com.example.onlypolling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840896643519-ivsp5pvrs616cpmm77sjtur7ohvc817o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDKSuYtQOQTP2RlHbI_oCkKWja36gb5N4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840896643519-ivsp5pvrs616cpmm77sjtur7ohvc817o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
